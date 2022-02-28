@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ameenam2
-- 👀 I’m interested in Program Development and Data Science.
+- 👀 I’m interested in Software Development and Data Science.
 - 🌱 I’m currently learning C,C++ and Swift.
 - 📫 How to reach me @ameenamohammed111@gmail.com
 
