@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ameenam2
-- 🌱 I’m currently interested in front-end development and creative coding :)
+- 🌱 I’m currently interested in software development and creative coding :)
 - 📫 How to reach me @ameenam@usf.edu
 
 <!---
